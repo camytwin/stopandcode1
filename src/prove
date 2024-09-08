@@ -1,0 +1,7 @@
+    // const documentiDirectory = "documenti";
+    // const workDirectory = process.cwd(); //mi da il percorso da cui ho lanciato il programma
+    // const fullDirectory = path.join(workDirectory, documentiDirectory)
+    // const documentiPath = path.join(workDirectory, 'Utilities', 'documenti')
+
+    // const files = fs.readdirSync(documentiDirectory)
+    // console.log(documentiPath);

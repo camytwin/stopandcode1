@@ -1,0 +1,21 @@
+{
+  "name": "stopandcode1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/luxon": "^3.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "luxon": "^3.5.0"
+  }
+}
